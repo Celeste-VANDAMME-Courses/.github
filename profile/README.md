@@ -1,3 +1,2 @@
-# This is a Course Space
-
-This is a test! :)
+# Welcome to the GitHub page of GhibliCraft!
+Hello, Ghibli and Minecraft fans!
